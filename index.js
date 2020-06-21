@@ -10,7 +10,7 @@ function happyHolidaysTo(string){
 }
 
 //Write a function named happyCustomHolidayTo. This function should accept two parameters, the holiday you want to wish them well for, and the name of the person you're wishing well. Order of parameters matters, so make sure to first pass in the holiday and then the name. This function should return the string `Happy ${holiday}, ${name}!`
-function happyCustomHolidayTo(string,string){
+function happyCustomHolidayTo(string1,string2){
   return `Happy ${string}, ${string}!`;
 }
 
