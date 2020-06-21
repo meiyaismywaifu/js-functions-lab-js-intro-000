@@ -16,3 +16,6 @@ function happyCustomHolidayTo(string1,string2){
 }
 
 //Write a function named holidayCountdown. This function should accept two parameters, the holiday name and number of days until that holiday. The function should return the string `It's ${days} days until ${holiday}!`. Note that although days is used first when constructing the returned string, holidayCountdown should take in the holiday name first, then the days until that holiday.
+function holidayCountdown(holidays, daysUntil){
+  return `It's ${daysUntil} days until ${holiday}!`;
+}
